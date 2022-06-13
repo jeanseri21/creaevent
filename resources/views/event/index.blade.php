@@ -83,7 +83,7 @@
             <div class="d-sm-flex justify-content-between">
               <!-- Title -->
               <h4>Decouvrez les evenements </h4>
-              <a class="btn btn-link" href="events-2.html">Voir plus</a>
+              <a class="btn btn-link" href="/eventsearch">Voir plus</a>
             </div>
           </div>
         </div>
@@ -129,7 +129,7 @@
                   <!-- Interested button -->
                   <div class="w-100">
                     <input type="checkbox" class="btn-check d-block" id="Interested1">
-                    <label class="btn btn-sm btn-outline-success d-block" for="Interested1"><i class="fa-solid fa-thumbs-up me-1"></i> Interessé</label>
+                    <label class="btn btn-sm btn-outline-success d-block" for="Interested1"><i class="fa-solid fa-thumbs-up me-1" href="/detailevent"></i> Interessé</label>
                   </div>
                   <div class="dropdown ms-3">
                     <a href="#" class="btn btn-sm btn-primary-soft" id="eventActionShare" data-bs-toggle="dropdown" aria-expanded="false">

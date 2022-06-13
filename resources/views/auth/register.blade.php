@@ -13,7 +13,7 @@
           <div class="text-center">
             <!-- Title -->
             <h1 class="mb-2">S'incrire</h1>
-            <span class="d-block">Vous avez deja un compte? <a href="sign-in.html">Connectez vous</a></span>
+            <span class="d-block">Vous avez deja un compte? <a href="/login">Connectez vous</a></span>
           </div>
           <!-- Form START -->
           <form class="mt-4">
@@ -50,7 +50,7 @@
               <label class="form-check-label" for="keepsingnedCheck"> Se rappeler de moi</label>
             </div>
             <!-- Button -->
-            <div class="d-grid"><button type="submit" class="btn btn-lg btn-primary"> Valider</button></div>
+            <div class="d-grid"><a  class="btn btn-lg btn-primary" href="eventindex"> Valider</a></div>
             <!-- Copyright -->
 
           </form>

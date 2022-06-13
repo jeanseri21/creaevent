@@ -73,18 +73,18 @@ Header START -->
 
 					<!-- Nav item 1 Demos -->
 					<li class="nav-item ">
-						<a class="nav-link active " href="user_event_index_page.html" id="homeMenu" >Evenement</a>
+						<a class="nav-link active " href="/eventindex" id="homeMenu" >Evenement</a>
 
 					</li>
 					<!-- Nav item 2 Pages -->
 					<li class="nav-item ">
-            <a class="nav-link active " href="groupe_user_page.html" id="homeMenu" >Groupe</a>
+            <a class="nav-link active " href="/groupe" id="homeMenu" >Groupe</a>
 
           </li>
 
 					<!-- Nav item 4 Mega menu -->
 					<li class="nav-item">
-						<a class="nav-link" href="my-profile-connections.html">Mon reseau</a>
+						<a class="nav-link" href="/myconnexion">Mon reseau</a>
 					</li>
 				</ul>
 
@@ -111,7 +111,7 @@ Header START -->
                   <p class="small m-0">Web Developer</p>
                 </div>
               </div>
-              <a class="dropdown-item btn btn-primary-soft btn-sm my-2 text-center" href="profil_user_page.html">Mon profil</a>
+              <a class="dropdown-item btn btn-primary-soft btn-sm my-2 text-center" href="/myevent">Mon profil</a>
             </li>
             <!-- Links -->
 

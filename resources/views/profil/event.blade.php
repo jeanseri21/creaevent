@@ -56,9 +56,9 @@
               <!-- Nav profile pages -->
               <ul class="nav nav-bottom-line align-items-center justify-content-center justify-content-md-start mb-0 border-0">
 
-                <li class="nav-item"> <a class="nav-link" href="connexion_user_profile.html"> Connexions </a> </li>
+                <li class="nav-item"> <a class="nav-link" href="/myconnexion"> Connexions </a> </li>
 
-                <li class="nav-item"> <a class="nav-link active" href="event_user_profil.html"> Evenenement</a> </li>
+                <li class="nav-item"> <a class="nav-link active" href="/myevent"> Evenenement</a> </li>
 
               </ul>
             </div>

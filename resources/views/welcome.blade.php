@@ -82,7 +82,7 @@
           <p class="lead">Creer ou participez au evenement </p>
           <div class="d-sm-flex justify-content-center">
             <!-- button -->
-            <button class="btn btn-primary">S'inscrire gratuitement</button>
+            <a class="btn btn-primary" href="/register">S'inscrire gratuitement</a>
             <div class="mt-2 mt-sm-0 ms-sm-3">
               <!-- Rating START -->
               <div class="hstack justify-content-center justify-content-sm-start gap-1">

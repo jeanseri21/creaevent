@@ -16,4 +16,31 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/login', function () {
+    return view('auth.login');
+});
+Route::get('/register', function () {
+    return view('auth.register');
+});
+Route::get('/myevent', function () {
+    return view('profil.event');
+});
+Route::get('/myconnexion', function () {
+    return view('profil.connexion');
+});
+Route::get('/notification', function () {
+    return view('notification.index');
+});
+Route::get('/groupe', function () {
+    return view('groupe.index');
+});
+Route::get('/eventindex', function () {
+    return view('event.index');
+});
+Route::get('/eventsearch', function () {
+    return view('event.filtre');
+});
+Route::get('/detailevent', function () {
+    return view('event.detail');
+});
 
