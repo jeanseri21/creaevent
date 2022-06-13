@@ -40,7 +40,7 @@ Route::get('/eventindex', function () {
 Route::get('/eventsearch', function () {
     return view('event.filtre');
 });
-Route::get('/detailevent', function () {
+Route::get('/detailevent', function  () {
     return view('event.detail');
 });
 
